@@ -1,49 +1,41 @@
 [
-    {
-      "id": "is1",
-      "name": "Inventory Site",
-      "details": [
-        {
-          "one": "Add/Update/Delete items",
-          "two": "Display Added your Items",
-          "three": "Two ways login available,Responsive"
-        }
-      ],
-      "tools": "Tools: React, React-Bootstrap, React-Icons, React-Router, Toastify, Firebase, AOS, Axios, JWT, MongoDB, React-Firebase-Hooks",
-      "live": "https://goods-store-49d6a.web.app/",
-      "client": "https://github.com/Cihsan/warehouse-management-client-11",
-      "server": "https://github.com/Cihsan/warehouse-management-server-11"
-    },
-    {
-      "id": "ms2",
-      "name": "Manufacturer Site",
-      "details": [
-        {
-          "one": "Admin & User DashBoard,Payment",
-          "two": "Admin Manage Items & user, Make Admin",
-          "three": "User Update Profile & Submit Review"
-        }
-      ],
-      "tools": "Tools: React, DaisyUI, Tailwind, React-Icons, React-Router, Toastify, Firebase, JWT, MongoDB, NodeJsS, Stripe, React-Firebase-Hooks,",
-      "live": "https://manufacturer-a7f2a.web.app/",
-      "client": "https://github.com/Cihsan/manufacturer-client-12",
-      "server": "https://github.com/Cihsan/manufacturer-server-12"
-    },
-    {
-      "id": "ps3",
-      "name": "Personal Service",
-      "details": [
-        {
-          "one": "Sevices,Charts,Reviews",
-          "two": "Vanilla CSS,Responsive",
-          "three": "Dynamic Ratings, Two Login"
-        }
-      ],
-      "tools": "Tools: React, Bootstrap, React-Router, Firebase, Rechart, React-Firebase-Hooks,",
-      "live": "https://electrical-solution-e0837.web.app/",
-      "client": "https://github.com/Cihsan/independent-service-provider-10",
-      "server": "https://github.com/Cihsan/independent-service-provider-10"
-    }
-   
-  ]
- 
+  {
+    "id": "is1",
+    "name": "Inventory Site",
+    
+    "done": "Add/Update/Delete items",
+    "dtwo": "Display Added your Items",
+    "dthree": "Two ways login available,Responsive",
+
+    "tools": "Tools: React, React-Bootstrap, React-Icons, React-Router, Toastify, Firebase, AOS, Axios, JWT, MongoDB, React-Firebase-Hooks",
+    "live": "https://goods-store-49d6a.web.app/",
+    "client": "https://github.com/Cihsan/warehouse-management-client-11",
+    "server": "https://github.com/Cihsan/warehouse-management-server-11"
+  },
+  {
+    "id": "ms2",
+    "name": "Manufacturer Site",
+
+    "done": "Admin & User DashBoard,Payment",
+    "dtwo": "Admin Manage Items & user, Make Admin",
+    "dthree": "User Update Profile & Submit Review",
+
+    "tools": "Tools: React, DaisyUI, Tailwind, React-Icons, React-Router, Toastify, Firebase, JWT, MongoDB, NodeJsS, Stripe, React-Firebase-Hooks,",
+    "live": "https://manufacturer-a7f2a.web.app/",
+    "client": "https://github.com/Cihsan/manufacturer-client-12",
+    "server": "https://github.com/Cihsan/manufacturer-server-12"
+  },
+  {
+    "id": "ps3",
+    "name": "Personal Service",
+
+    "done": "Sevices,Charts,Reviews",
+    "dtwo": "Vanilla CSS,Responsive",
+    "dthree": "Dynamic Ratings, Two Login",
+
+    "tools": "Tools: React, Bootstrap, React-Router, Firebase, Rechart, React-Firebase-Hooks,",
+    "live": "https://electrical-solution-e0837.web.app/",
+    "client": "https://github.com/Cihsan/independent-service-provider-10",
+    "server": "https://github.com/Cihsan/independent-service-provider-10"
+  }
+]
