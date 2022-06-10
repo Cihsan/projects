@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": "is1",
       "name": "Inventory Site",
       "details": [
         {
@@ -15,7 +15,7 @@
       "server": "https://github.com/Cihsan/warehouse-management-server-11"
     },
     {
-      "id": 2,
+      "id": "ms2",
       "name": "Manufacturer Site",
       "details": [
         {
@@ -30,7 +30,7 @@
       "server": "https://github.com/Cihsan/manufacturer-server-12"
     },
     {
-      "id": 3,
+      "id": "ps3",
       "name": "Personal Service",
       "details": [
         {
